@@ -1,0 +1,159 @@
+    1  git init
+    2  git - p / vars /saves /my-repos
+    3  git  -p / vars /saves /my-repos
+    4  hit --help
+    5  git --help
+    6  git  -p / vars /saves /my-repos
+    7  mkdir  -p / vars /saves /my-repos
+    8  mkdir  -p / vars /saves /my-repos
+    9  git log
+   10  git shows
+   11  git --onelog
+   12  git --onelog
+   13  clear
+   14  git oneline
+   15  clear
+   16  mkdir -p / java / javaExam / my-javapractice
+   17  git remote add origin "git@github.com:sandhyalu/sandhya-Lakshmi-Repository.git'
+   18  git remote add origin "git@github.com:sandhyalu/sandhya-Lakshmi-Repository.git'
+   19  git  remote add origin "git@github.com:sandhya/sandhya-Lakshmi-Repository.git"
+   20  git branch
+   21  git  branch  myJavaBranch
+   22  git  checkout   -b myJavaBranch
+   23  git status
+   24  git checkout myJavaBranch
+   25  touch "java.txt"
+   26  git add.
+   27  git add
+   28  git add.
+   29  git add .
+   30  git commit -m  "java.txt my commit "
+   31  git add .
+   32  git commit -m "practice/example"
+   33  rm -f./.git/index.lock
+   34  cd .git
+   35  del index.lock
+   36  cd .git
+   37  rm --force./.git/index.lock
+   38  delete the .git/index.lock
+   39  git gc
+   40  rm -Force ./.git/index.lock
+   41  cd .git
+   42  cd .git
+   43  cd .git
+   44  cd .git
+   45  taskkill /F /IM git.exe
+   46  ls
+   47  pwd
+   48  mkdir -p /var/save/my-repo
+   49  mkdir demo
+   50  ls
+   51  cd demo
+   52  git init
+   53  ls -le
+   54  ls -la
+   55  which git
+   56  pwd
+   57  cd /c/Users/saisa/Desktop/demo
+   58  which git
+   59  which git
+   60  which git > cd
+   61  cd d:
+   62  mkdir -p /var/save/my-repo
+   63  mkdir -p var/save/my-repo
+   64  ls la
+   65  ls -la
+   66  cd var 
+   67  ls
+   68  cd save/my-repo
+   69  git init
+   70  touch abc.txt
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m "my first commit"
+   75  git config --global user.email "saisandhya.akkaraju@gmail.com"
+   76  git config --global user.name "sandhyalu"
+   77  git commit -m "my first commit"
+   78  git status
+   79  git remote add origin "git@github.com:sandhyalu/sandhya-Lakshmi-Repository.git"
+   80  git push -u origin master
+   81  ssh-keygen -t rsa
+   82  git push -u origin master
+   83  touch cde.txt
+   84  ls -la
+   85  git ls -la
+   86  git ls-files
+   87  git status
+   88  git status #It shows the details of our git local repository details
+   89  history
+   90  history > history.txt
+   91  ls -la
+   92  ls -la # it shows current folder details
+   93  cat history.txt
+   94  git status
+   95  git ls
+   96  git ls-files
+   97  git status
+   98  git add cde.txt
+   99  git status
+  100  git add history.txt
+  101  git status
+  102  git commit -m "my Secons commit"
+  103  git log
+  104  git log --oneline
+  105  git remote
+  106  git push -u origin master
+  107  git log --oneline
+  108  history > history.txt
+  109  git status
+  110  git add .
+  111  cat history.txt
+  112  git add .
+  113  git status
+  114  git status
+  115  git commit -m "my 3rd commit"
+  116  git push -u origin master
+  117  ls -la
+  118  cd .git
+  119  which git
+  120  which git >cd
+  121  cd d
+  122  cd d:
+  123  mkdir -p  variables/saving/my-repos
+  124  ls -la
+  125  cd var
+  126  cd variables
+  127  ls
+  128  cd varibles
+  129  mkdir -p  variables/saving/my-repos
+  130  ls -la
+  131  ls
+  132  cd clear
+  133  clear
+  134  mkdir -p  varibles/saving/my-repos
+  135  ls -la
+  136  cd d:
+  137  mkdir -p  varibles/saving/my-repos
+  138  ls -la
+  139  ls
+  140  cd varibles
+  141  ls
+  142  cd saving/my-repos
+  143  git init
+  144  touch efgh.txt
+  145  git status
+  146  git add .
+  147  git init
+  148  git status
+  149  git commit -m "my first Commit"
+  150  git remote add origin "git@github.com:sandhyalu/Sandhya-s-repos.git"
+  151  git branch
+  152  git checkout -b MyNewBranch
+  153  git push -u origin MyNewBranch
+  154  touch mno.txt
+  155  ls -la
+  156  git ls-files
+  157  git status
+  158  history
+  159  history >his.txt
